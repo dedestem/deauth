@@ -1,4 +1,6 @@
 #!/bin/bash
+clear
+
 
 # Function to check and stop NetworkManager
 stop_network_manager() {
